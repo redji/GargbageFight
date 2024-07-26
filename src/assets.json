@@ -1,0 +1,76 @@
+{
+  "image": [
+    [
+      "forest_V1",
+      "/img/forest_V1.png"
+    ],
+    [
+      "fullscreen",
+      "/img/fullscreen.png"
+    ],
+    [
+      "hit_V1",
+      "/img/hit_V1.png"
+    ],
+    [
+      "logo_V1",
+      "/img/logo_V1.png"
+    ],
+    [
+      "title_V1",
+      "/img/title_V1.png"
+    ]
+  ],
+  "spritesheet": [
+    [
+      "car_V1",
+      "/img/car_V1.png",
+      {
+        "frameWidth": 40,
+        "frameHeight": 40,
+        "startFrame": 0,
+        "endFrame": 11
+      }
+    ],
+    [
+      "fire_V1",
+      "/img/fire_V1.png",
+      {
+        "frameWidth": 90,
+        "frameHeight": 30,
+        "startFrame": 0,
+        "endFrame": 2
+      }
+    ],
+    [
+      "flower_V1",
+      "/img/flower_V1.png",
+      {
+        "frameWidth": 40,
+        "frameHeight": 40,
+        "startFrame": 0,
+        "endFrame": 11
+      }
+    ],
+    [
+      "kinoko_V1",
+      "/img/kinoko_V1.png",
+      {
+        "frameWidth": 40,
+        "frameHeight": 40,
+        "startFrame": 0,
+        "endFrame": 11
+      }
+    ],
+    [
+      "spinel_V1",
+      "/img/spinel_V1.png",
+      {
+        "frameWidth": 40,
+        "frameHeight": 40,
+        "startFrame": 0,
+        "endFrame": 23
+      }
+    ]
+  ]
+}
